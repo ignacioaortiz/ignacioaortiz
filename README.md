@@ -1,6 +1,6 @@
-## ¡Hello World 👋! Aquí Ignacio 👨🏻‍💻
+## ¡Hola Mundo 👋! Aquí Ignacio 👨🏻‍💻
 
-FullStack developer
+- 📈 Técnico Analista en Sistemas y Web Developer. Apasionado por las finanzas y las tecnologías de programación de vanguardia
 
 <br />
 
