@@ -7,7 +7,7 @@
 ## Lo que hago
 
 - 🔭 Actualmente trabajo en [Ministerio de Desarollo Social y Trabajo](https://mindesarrolloytrabajo.neuquen.gob.ar/).
-- 🧪 Mi tecnologia mas utilizada es [React](https://reactjs.org).
+- 🧪 Mis tecnologias mas utilizadas son [Angular](https://angular.io/), [React](https://reactjs.org) y [NestJS](https://nestjs.com/).
 
 <br />
 
