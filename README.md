@@ -1,6 +1,6 @@
 ## ¡Hola Mundo 👋! Aquí Ignacio 👨🏻‍💻
 
-- 📈 Técnico Analista en Sistemas y Web Developer. Apasionado por las finanzas y las tecnologías de programación de vanguardia
+- 📈 Frontend Developer y Técnico Analista en Sistemas.
 
 <br />
 
