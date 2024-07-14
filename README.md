@@ -1,4 +1,4 @@
-## ¡Hola Mundo 👋! Aquí Ignacio 👨🏻‍💻
+## ¡Hola 👋! Aquí Ignacio 👨🏻‍💻
 
 - 📈 Frontend Developer y Técnico Analista en Sistemas.
 
@@ -6,7 +6,8 @@
 
 ## Lo que hago
 
-- 🔭 Actualmente trabajo en [Ministerio de Desarollo Social y Trabajo](https://mindesarrolloytrabajo.neuquen.gob.ar/).
+- 👨🏻‍💻 Ingeniero de Software en [Canela](https://caneladev.com.ar).
+- 🔭 Director de Programación en [Ministerio de Infraestructura](https://mininfraestructura.neuquen.gob.ar/).
 - 🧪 Mis tecnologias mas utilizadas son [Angular](https://angular.io/), [React](https://reactjs.org) y [NestJS](https://nestjs.com/).
 
 <br />
@@ -20,13 +21,8 @@
 
 <br />
 
-## Proyectos
+## Últimos Proyectos
 
-- 📈 [Data SUR](https://datasur.neuquen.gov.ar/)
-- 🛍️ [Hay Producto](https://hayproducto.neuquen.gov.ar/inicio)
-- 📍 [Cerca Tuyo](https://cercatuyo.neuquen.gov.ar/)
-- ⚽️ [Nyara](https://nyara.com.ar/login) ¡Campones del Mundo! 🥇
-- 📚 [Cumbre](https://cumbre.neuquen.gov.ar/inicio)
-- 📝 [SUR](https://sur.neuquen.gov.ar/)
-- 👨‍👩‍👧‍👦 [Familias Solidarias](https://familiassolidarias.neuquen.gov.ar/)
-- 🌱 [ATP CeN](https://acciontotal.neuquen.gov.ar/)
+- 🎟️ [Canela Tickets](https://canelatickets.com.ar)
+- 🎾 [Nyara Tenis](https://nyara.com.ar/login)
+- 📱 [Interaction](https://caneladev.com.ar)
